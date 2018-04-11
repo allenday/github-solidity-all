@@ -1,0 +1,3 @@
+// contract Example {
+contract <%= className %> {
+}

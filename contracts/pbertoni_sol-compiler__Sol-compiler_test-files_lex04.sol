@@ -1,0 +1,2 @@
+exampleString : string;
+ exampleString = "alpha";

@@ -1,0 +1,2 @@
+ok : bool;
+ ok = true;
